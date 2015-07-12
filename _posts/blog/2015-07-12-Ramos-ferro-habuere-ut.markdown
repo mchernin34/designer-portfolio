@@ -2,7 +2,7 @@
 layout: post
 title: "Ramos ferro habuere ut"
 date: 2015-07-12 11:12:47
-categories: jekyll update
+categories: blog
 tags: layout
 ---
  

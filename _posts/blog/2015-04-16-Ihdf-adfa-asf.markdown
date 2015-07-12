@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Isaf asfas sdd
-date: 2015-01-03 13:30
-categories: jekyll update
-featured: true
-tags: code inspiration
+title: Ihdf adfa asf
+date: 2015-04-16 14:50
+categories: blog
+tags: code
 ---
 
 ## Theseus contigit carinis quoque haec quo
