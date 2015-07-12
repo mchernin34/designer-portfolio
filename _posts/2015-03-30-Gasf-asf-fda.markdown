@@ -3,6 +3,7 @@ layout: post
 title: Gasf asf fda
 date: 2015-03-30 13:24
 categories: jekyll update
+tags: snippet
 ---
 
 ## Theseus contigit carinis quoque haec quo

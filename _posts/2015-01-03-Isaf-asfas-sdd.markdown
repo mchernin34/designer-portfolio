@@ -4,6 +4,7 @@ title: Isaf asfas sdd
 date: 2015-01-03 13:30
 categories: jekyll update
 featured: true
+tags: code inspiration
 ---
 
 ## Theseus contigit carinis quoque haec quo

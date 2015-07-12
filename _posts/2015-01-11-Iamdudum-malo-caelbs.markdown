@@ -3,6 +3,7 @@ layout: post
 title: Iamdudum malo luget caelebs
 date: 2015-01-11 11:20
 categories: jekyll update
+tags: inspiration
 ---
 
 ## Theseus contigit carinis quoque haec quo
