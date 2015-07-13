@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iamdudum malo luget caelebs
+title: "Iamdudum malo luget caelebs"
 date: 2015-01-11 11:20
 categories: blog
 tags: inspiration

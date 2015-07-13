@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Ilddud afd hae
+title: "Project 2"
 date: 2015-02-12 12:12
 categories: project
+featured_image: "/images/project.png"
 tags: design
 ---
 
